@@ -58,9 +58,3 @@ With ~690k rows and 57 columns, the project uncovers insights into **ride demand
 - Foundation for future **predictive modeling** (e.g., fare prediction, demand forecasting)  
 
 ---
-
-
-
-
-# Run Jupyter Notebook
-jupyter notebook Uber_Lyft_Analysis.ipynb
